@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 ## Some of my projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsGrard&repo=ShellProject2)](https://github.com/ItsGrard/ShellProject2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsGrard&repo=costa_AutoMessage)](https://github.com/ItsGrard/costa_AutoMessage)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsGrard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/ItsGrard/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsGrard&layout=compact" />
+</a>
+
 
 
 
