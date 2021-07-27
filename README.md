@@ -15,8 +15,8 @@ People call me Grard and
 
 <p align="center">
 <a href="https://github.com/ItsGrard">
-  <img height="125em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsGrard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="125em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsGrard&layout=compact&exclude_lang=java+r&theme=tokyonight" />
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsGrard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsGrard&layout=compact&exclude_lang=java+r&theme=tokyonight" />
 </a>
 </p>
 
