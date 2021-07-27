@@ -19,6 +19,8 @@ People call me Grard and
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsGrard&layout=compact&exclude_lang=java+r&theme=tokyonight" />
 </a>
 </p>
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
