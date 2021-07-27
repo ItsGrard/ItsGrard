@@ -10,7 +10,7 @@ People call me Grard and
 - 📫 How to reach me: katsurana@outlook.es
 - ⚡ Fun fact: On June 4th, 1996 a rocket exploded at launch due to an integer overflow. Glad I didn't work back then.
 
-![](https://komarev.com/ghpvc/?username=ItsGrard)
+
 
 
 <p align="center">
@@ -20,10 +20,17 @@ People call me Grard and
 </a>
 </p>
 
+## Some of my projects
+
+<p align="center">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsGrard&repo=ShellProject2)](https://github.com/ItsGrard/ShellProject2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsGrard&repo=costa_AutoMessage)](https://github.com/ItsGrard/costa_AutoMessage)
+</p>
+
+[![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/Grard)
 
 
 
+![](https://komarev.com/ghpvc/?username=ItsGrard)
 
 
 
