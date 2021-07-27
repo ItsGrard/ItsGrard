@@ -24,7 +24,7 @@ People call me Grard and
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![LUA](https://img.shields.io/badge/-Python-333333?style=flat&logo=lua)&nbsp;
+![LUA](https://img.shields.io/badge/-LUA-333333?style=flat&logo=lua)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
