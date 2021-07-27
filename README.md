@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ItsGrard&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
-## Some of my projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsGrard&repo=ShellProject2)](https://github.com/ItsGrard/ShellProject2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsGrard&repo=costa_AutoMessage)](https://github.com/ItsGrard/costa_AutoMessage)
 
 <a href="https://github.com/ItsGrard/github-readme-stats">
