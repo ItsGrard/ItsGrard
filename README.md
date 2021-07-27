@@ -24,10 +24,9 @@ People call me Grard and
 
 <p align="center">
   <a href="https://github.com/ItsGrard">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsGrard&repo=ShellProject2" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsGrard&repo=costa_AutoMessage" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsGrard&repo=ShellProject2" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsGrard&repo=costa_AutoMessage" />
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsGrard&repo=ShellProject2)](https://github.com/ItsGrard/ShellProject2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsGrard&repo=costa_AutoMessage)](https://github.com/ItsGrard/costa_AutoMessage)
 </p>
 
 [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/Grard)
