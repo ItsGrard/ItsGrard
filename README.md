@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/ItsGrard/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ItsGrard&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/ItsGrard/github-readme-stats">
+</a> <a href="https://github.com/ItsGrard/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsGrard&layout=compact" />
 </a>
+
 
 
 
