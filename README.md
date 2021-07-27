@@ -29,7 +29,7 @@ People call me Grard and
 </a>
 </p>
 
-[![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/Grard)
+[![Twitter Follow](https://img.shields.io/twitter/follow/grard97?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/grard97) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/Grard)
 
 
 
