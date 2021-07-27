@@ -6,9 +6,9 @@ People call me Grard and
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 🌱 I’m currently learning LUA and FiveM development
-- 💬 Ask me about Java, C or C++
-- 📫 How to reach me: katsurana@outlook.es
-- ⚡ Fun fact: On June 4th, 1996 a rocket exploded at launch due to an integer overflow. Glad I didn't work back then.
+- 💬 You can ask me about Java, C or C++
+- 📫 You can reach me at: katsurana@outlook.es
+- ⚡ Fun fact: On June 4th 1996 a rocket exploded at launch due to an integer overflow. Glad I didn't work back then.
 
 
 
