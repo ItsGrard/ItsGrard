@@ -5,7 +5,7 @@ People call me Grard and
 <!-- - 🔭 I’m currently working on -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 🌱 I’m currently improving my skills in C and Kotlin
+- 🌱 I’m currently improving my skills in C and Python
 - 💬 You can ask me about Java, C or C++
 - 📫 You can reach me at: katsurana@outlook.es
 - ⚡ Fun fact: On June 4th 1996 a rocket exploded at launch due to an integer overflow. Glad I didn't work back then.
